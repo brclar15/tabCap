@@ -6,4 +6,4 @@ a site to host a Tufts DH Masters project on the Tabula Capitolina
 
 
 
-**Digital Diplomatic Edition of Tabula Capitolina**
+**Digital Diplomatic Edition of Tabula Capitolina** 
