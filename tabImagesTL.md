@@ -29,14 +29,17 @@
 | 18  | 22 | Achilles' arms  | Thetis watches the Cyclopes and Hephaestus forge the arms  |   |
 | 19  | 23 | The Arming of Achilles  | Thetis, a woman, and Phoenix are arming Achilles  |   |
 | 19  | 24 | Achilles goes to fight  | Achilles setting off in his chariot  |   |
-| 1  | 25 |   |   |   |
-| 1  | 26 |   |   |   |
-| 1  | 27 |   |   |   |
-| 1  | 28 |   |   |   |
-| 1  | 29 |   |   |   |
-| 1  | 30 |   |   |   |
-| 1  |  |   |   |   |
-| 1  |  |   |   |   |
-| 1  |  |   |   |   |
-| 1  |  |   |   |   |
-| 1  |  |   |   |   |
+| 20  | 25 | Poseidon and Aeneas  |   |   |
+| 20  | 26 | Achilles fights  | Achilles and an unarmed figure and one flees  |   |
+| 20  | 27 | Achilles and Hector  |   |   |
+| 20  | 28 |  Gods surveying? |   |   |
+| 21  | 29 | Achilles and Lycoan  | Achilles kills Lycoan in the Scamander  |   |
+| 21  | 30 | Achilles and Poseidon  |   |   |
+| 21  | 31 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |
+| 22  | 32 | Hector and Achilles at the gates  |   |   |
+| 22  | 33 | Death of Hector | Hector falls to Achilles  |   |
+| 22  | 34 | Achilles desecrates his body  |  Hector is tied to the chariot |   |
+| 23  | 35 | Cremation of Patroclus  | Achilles and figures around the pyre   |   |
+| 23  | 32 | Funeral games  | Chariot racing  |   |
+| 24  | 33 | Ransoming Hector  |  Hector and the ransom of Hector loaded onto a cart |   |
+| 24  | 34 | Priam and Achilles  |  Hermes and Priam in the tent and Achilles |   |
