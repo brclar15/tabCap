@@ -2,7 +2,7 @@
 
 ## By Brian Clark
 
-[Tabula Capitolina Edition](tabCap/tabulaCapt.xml)
+[Tabula Capitolina Overview](Intro.md)
 
 ---
 layout: post
