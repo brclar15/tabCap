@@ -6,6 +6,8 @@
 
 - [Timeline of the Iliadic Images on the stone](tabImagesTL.md)
 
+- [Timeline of the Iliadic Summary on the stone](tabTextTL.md)
+
 ---
 layout: post
 title:  "Welcome to Jekyll!"
