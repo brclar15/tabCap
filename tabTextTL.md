@@ -15,31 +15,12 @@
 | 14 - 16  | 8 | Patroclus goes to fight  |  Achilles hears the news, sees Potesilaus’ ship burning, sends Patroclus with Myrmidons giving him his horses and arms |   |
 | 16  | 9 |  Patroclus fights the Trojans | Trojans flee, Patroclus kills many, Sarpedon, chases the rest to the wall  |   |
 | 16  | 10 |  Hector kills him and takes the armor |   |   |
-| 14  | 11 | Ajax and Poseidon  |   |   |
-| 14  | 12 | Hector and Apollo  | Hector flees to Apollo  |   |
-| 15  | 13 | Trojan Warriors  | Aeneas Kleitos Helenus Paris  |   |
-| 15  | 14 | Hector the ships  | Hector hurls fire, wounded Kaletor  |   |
-| 15  | 15 | Naumaxia  | Ajax and Teucer  |   |
-| 16  | 16 | Arming of Patroclus  | Patroclus in armor Phoenix Diomedes Achilles  |   |
-| 16  | 17 | Patroclus fights  | chariot battle  |   |
-| 17  | 18 | Patroclus' body  | a chariot seeks to take the body while it's being defended  |   |
-| 17  | 19 | Menelaus carries the body  | Menelaus drags Patroclus' body from danger |   |
-| 17  | 20 | Greeks load up the body  | Patroclus is put on a chariot to be brought to the ships  |   |
-| 18  | 21 | Mourning of Patroclus  | Achilles and mourners surround the body |   |
-| 18  | 22 | Achilles' arms  | Thetis watches the Cyclopes and Hephaestus forge the arms  |   |
-| 19  | 23 | The Arming of Achilles  | Thetis, a woman, and Phoenix are arming Achilles  |   |
-| 19  | 24 | Achilles goes to fight  | Achilles setting off in his chariot  |   |
-| 20  | 25 | Poseidon and Aeneas  |   |   |
-| 20  | 26 | Achilles fights  | Achilles and an unarmed figure and one flees  |   |
-| 20  | 27 | Achilles and Hector  |   |   |
-| 20  | 28 |  Gods surveying? |   |   |
-| 21  | 29 | Achilles and Lycoan  | Achilles kills Lycoan in the Scamander  |   |
-| 21  | 30 | Achilles and Poseidon  |   |   |
-| 21  | 31 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |
-| 22  | 32 | Hector and Achilles at the gates  |   |   |
-| 22  | 33 | Death of Hector | Hector falls to Achilles  |   |
-| 22  | 34 | Achilles desecrates his body  |  Hector is tied to the chariot |   |
-| 23  | 35 | Cremation of Patroclus  | Achilles and figures around the pyre   |   |
-| 23  | 32 | Funeral games  | Chariot racing  |   |
-| 24  | 33 | Ransoming Hector  |  Hector and the ransom of Hector loaded onto a cart |   |
-| 24  | 34 | Priam and Achilles  |  Hermes and Priam in the tent and Achilles |   |
+| 17  | Battle over the body | The Greeks and Trojans battle for Patroclus' body, Antiochus announces to Achilles  |   |   |
+| 18  | 12 | Arms of Achilles  | Thetis goes to Hephaestus to get arms  |   |
+| 17  | 13 | Saving Patroclus' body  | Greeks carry Patroclus to the ship  |   |
+| 19  | 14 | Reconciliation  | Thetis brings the arms, and Agamemnon gives Briseis to Achilles  |   |
+| 21  | 15 | In the Scamander  | Achilles kills Asteropaeus in the Scamander, and then escapes the river  |   |
+| 22  | 16 | Death of Hector  | Achilles kills Hector, takes his arms, and drags his body to the ships  |   |
+| 23  | 17 | Patroclus' burial  | Achilles buries Patroclus and holds games for the chiefs  |   |
+| 24  | 18 | Ransom of Hector  | Priam ransoms Hector  |   |
+| 24  | 19 | Conclusion  | Priam returns to the city and the Trojans bury him and prepare his tomb |   |
