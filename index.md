@@ -9,11 +9,9 @@
 - [Timeline of the Iliadic Summary on the stone](tabTextTL.md)
 
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-17 16:16:01 -0600
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##Aim of the project
+
+The goal of this project is to analyze the way an ancient audience would have retold the *Iliad*, or broken it down into smaller episodes. Primarily, the focus of this work is on the **Tabula Capitolina**, and the ways in which it retells the *Iliad*. There are two such retellings found on the stone: one visual in carved figures, and one textual in a prose summary. However, the stone has been damaged, and the visiual retelling for books 2 through 12, and the textual retelling for books 1 through 6 do not survive. 
+
+In order to study this document, I have created a diplomatic digital edition of the text found on the stone. 
