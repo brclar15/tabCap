@@ -8,7 +8,6 @@
 
 - [Timeline of the Iliadic Summary on the stone](tabTextTL.md)
 
-----------
 
 ##Aim of the project
 
