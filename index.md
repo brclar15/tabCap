@@ -2,9 +2,9 @@
 
 ## By Brian Clark
 
-[Tabula Capitolina Overview](Intro.md)
+- [Tabula Capitolina Overview](Intro.md)
 
-[Timeline of the Iliadic Images on the stone](tabImagesTL.md)
+- [Timeline of the Iliadic Images on the stone](tabImagesTL.md)
 
 ---
 layout: post
