@@ -1,15 +1,38 @@
-# My Website Title
-
-## By Brian Clark
-
-[Tabula Capitolina Edition](tabCap/tabulaCapt.xml)
-
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-17 16:16:01 -0600
-categories: jekyll update
+layout: home
+title: Neel Smith on github
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+### Blog posts ###
+
+[Grouped by topic](alltags).
+
+### Code libraries ###
+
+
+A selection of my openly available work on github (from most general, to project-specific):
+
+
+
+- citing scholarly resources:  [implementing models of the CITE architecture](cite)
+- working with digital representations of [ancient Greek](greek_language)
+- the [Homer Multitext project](hmt)
+
+
+### Binary releases
+
+Binary releases of the above code libraries are available through jcenter, linked from my personal repository at
+<https://bintray.com/neelsmith/maven>, where you can download or find information about build settings for the most recent version.
+
+### Collaborations on github ###
+
+
+- the Holy Cross [Manuscripts, Inscriptions and Documents Club](http://hcmid.github.io/)
+- the [Homer Multitext project](http://homermultitext.github.io) including the [HMT project editors' group](http://hmteditors.github.io/)
+
+### Links ###
+
+- My home page at Holy Cross: <http://shot.holycross.edu/~nsmith/>
+- A few [things I wish all my students would read](keyreads)
+- Atom feed for this site: <http://neelsmith.github.io/atom.xml>
