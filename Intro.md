@@ -1,0 +1,9 @@
+# Intro to Tabula Capitolina
+
+## By Brian Clark
+
+
+The Tabula Capitolina (1A) is one of twenty-two stone tablets that depict scenes from the Epic Cycle known as the Tabulae Iliacae. This tabula in particular shows scenes from the Iliad, the Aethiopis, the Iliasparva and the Iliupersis. Additionally, there is a prose summary of the Iliad engraved on a stele. As mentioned in the Introduction, the tabula is now damaged. The original stone would have been about 42cm by 25cm, but is not 30cm by 25cm. In the damage, scenes from Iliad 2 through 12 and the stele with the summary for books 1 through 7 were lost. I have focused exclusively on this tabula because it is one of the best preserved and more complex out of the Tabulae Iliacae. It covers four different epics, and mixes both visual and textual retellings. Books 13 through 24 are present both in the textual summary as well as the carved figures. This double retelling combined in one document is a unique opportunity to look at retellings across different media.
+
+The scholarship on the Tabulae Iliacae has been divided on the subject of their importance. Previously, they were thought to be low class carvings for adult education due to some inconsistencies between the stone and the Iliad. However, more recent scholars have shown that these highly complex and allusive documents are greatly worthy of interest. The wealth of images and text that they provide, particularly the Tabula Capitolina, make them excellent sources for the comparison of retellings. My edition of the Tabula Capitolina was done from open access photography taken by Rebecca Finnigan and Nikolas Churik. Additionally, Drew Virtue digitally altered a number of these photographs, in order to make the texts clearer. The drawing of this tabula done by Jahn was also invaluable to the study of this document.
+
