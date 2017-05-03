@@ -1,5 +1,5 @@
 # Diplomatic Digital Edition of the Tabula Capitolina
 
-- [Digital Edition](Users/brian/Desktop/updates_to_xslt/tabCapEdition.html)
+- [Digital Edition](tabCapEdition.html)
 - [Editorial Practices](editPractices.md)
 - [Navigating the Tabula](navigatingTab.md)
