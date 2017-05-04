@@ -19,3 +19,6 @@
 | urn:cite:hmt:capimgs.Capitoline_14  |  Tabula Capitolina, top middle section of relief | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_14.jpg)  |  
 | urn:cite:hmt:capimgs.Capitoline_15  | Tabula Capitolina, overview	  | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_15.jpg)  |  
 | urn:cite:hmt:capimgs.Capitoline_16  | Tabula Capitolina, upper left part of reliefs	  | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_16.jpg)  |  
+
+
+Photogaphy by Nikolas Churik and Rebecca Finnigan. Licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
