@@ -15,7 +15,7 @@
 | 14 - 16  | 8 | Patroclus goes to fight  |  Achilles hears the news, sees Potesilaus’ ship burning, sends Patroclus with Myrmidons giving him his horses and arms |   |
 | 16  | 9 |  Patroclus fights the Trojans | Trojans flee, Patroclus kills many, Sarpedon, chases the rest to the wall  |   |
 | 16  | 10 |  Hector kills him and takes the armor |   |   |
-| 17  | Battle over the body | The Greeks and Trojans battle for Patroclus' body, Antiochus announces to Achilles  |   |   |
+| 17  | 11 |  Battle over the body | The Greeks and Trojans battle for Patroclus' body, Antiochus announces to Achilles  |   |
 | 18  | 12 | Arms of Achilles  | Thetis goes to Hephaestus to get arms  |   |
 | 17  | 13 | Saving Patroclus' body  | Greeks carry Patroclus to the ship  |   |
 | 19  | 14 | Reconciliation  | Thetis brings the arms, and Agamemnon gives Briseis to Achilles  |   |
