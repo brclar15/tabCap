@@ -1,6 +1,13 @@
 # Open Access Photography of Tabula Capitolina
 
 
+## Rights Statement 
+
+
+Photogaphy by Nikolas Churik and Rebecca Finnigan. Licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
+
+----------
+
 | URN  | Caption  | Image  | 
 |---|---|---|
 | urn:cite:hmt:capimgs.Capitoline_1  | Tabula Capitolina, overview  | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)  |  
@@ -20,7 +27,4 @@
 | urn:cite:hmt:capimgs.Capitoline_15  | Tabula Capitolina, overview	  | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_15.jpg)  |  
 | urn:cite:hmt:capimgs.Capitoline_16  | Tabula Capitolina, upper left part of reliefs	  | [Image](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_16.jpg)  |  
 
-## Rights Statement 
 
-
-Photogaphy by Nikolas Churik and Rebecca Finnigan. Licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
