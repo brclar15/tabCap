@@ -20,16 +20,24 @@
 | 13  | 16  | Intense fighting  | Battle rages before the ships  |   |
 | 14  | 17  | Divine Aid  | Poseidon helps the Greek forces  |   |
 | 14  | 18  | Hera and Zeus  | Hera distracts Zeus  |   |
-|   | 19  |   |   |   |
-|   | 20  |   |   |   |
-|   | 21  |   |   |   |
-|   | 22  |   |   |   |
-|   | 23  |   |   |   |
-|   | 24  |   |   |   |
-|   | 25  |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| 15  | 19  | Plans of the gods  | Zeus' anger at Hera  |   |
+| 15  | 20  | The Aiantes  | The Aiantes try to repell the Trojan onslaught  |   |
+| 15  | 21  |  Razing the ships | Hector sets Protesilaos' ship on fire  |   |
+| 16  | 22  | Arming of Patroclus   | Achilles gives his permission and arms Patroclus for war  |   |
+| 16  | 23  | Patroclus Fights  | Patroclus kills many Trojans, including Sarpedon  |   |
+| 16  | 24  | Patroclus Dies  | Hector slays Patroclus  |   |
+| 17  | 25  | Fighting over the body  | The Greeks and Trojans contend for Patroclus' body  |   |
+| 17  | 26  | Announcing the death  | Antilochus is sent to inform Achilles  |   |
+| 18  | 27  | Achilles Learns of the Death  | He grieves and routs with Trojans with his voice  |   |
+| 18  | 28  | The Arms of Achilles  | Thetis goes to get new armour from Hephaestus  |   |
+| 19  | 29  | Reconciliation  | Agamemnon and Achilles make peace  |   |
+| 19  | 30  | Arming of Achilles  | Achilles arms for battle  |   |
+|   | 31  |   |   |   |
+|   | 32  |   |   |   |
+|   | 33  |   |   |   |
+|   | 34  |   |   |   |
+|   | 35  |   |   |   |
+|   | 36  |   |   |   |
+|   | 37  |   |   |   |
+|   | 38  |   |   |   |
+
