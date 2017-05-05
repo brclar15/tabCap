@@ -19,4 +19,4 @@
 ### Broader Expansion   
 - look at an analyze other Iliadic retellings
   - metrical summaries in VA
-- add Epic Cycle portion to this site, *maybe*?  
+- add Epic Cycle portion of the Tabula Capitolina to this site, *maybe*?  
