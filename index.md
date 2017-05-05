@@ -6,7 +6,7 @@
 
 - [A Collection of Photography of the Tabula Capitolina](images.md)
 
-- [Timelines of the Retellings and the *Iliad](iliadTL.md)
+- [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
 
 - [The Tabula in Context](tabContext.md)
 
