@@ -3,7 +3,7 @@
 
 
 
-| Book Number  | Sequence  |  Title | Description  |  Image |
+| Book Number  | Sequence  |  Title | Description  |   |
 |---|---|---|---|---|
 | 7  | 1  | Greek fortifications  | Greeks build a wall and ditch around the ships  |   |
 | 8  | 2  | Trojan offensive  | Trojans push the Achaeans to the wall and camp by the ships  |   |
