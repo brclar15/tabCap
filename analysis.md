@@ -74,16 +74,17 @@ Textual retelling has Achilles killing Asteropaeus (due to his connection to the
 
 ## Book 22
 
-
+The death of Hector is highly standard throughout the retellings. The images specifically show them around the gates of Troy, while the textual retelling does not. The taking of the arms is not specifically shown in the images, but the fact that the body is nude while its being dragged, shows that it happened
 
 
 ## Book 23
 
-
+All agree on the funeral of Patroclus and the funeral games
 
 
 ## Book 24
 
+Ransom of Hector is similar in all, expanded in images, Hermes mentioned in Iliad and images, not in text, text is elaborate at the end about his burial 
 
 ## Overall Trends of the Analysis
 
