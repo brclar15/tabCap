@@ -2,6 +2,7 @@
 
 ## Ideas on how to expand this project
 
+- Oranize website with home button and side bar for better navigation 
 - add image citations for visual retellings
 - add rough line ranges for Iliad passages
   - calculate relative sizes within work and within book, *maybe*?
