@@ -32,12 +32,10 @@
 | 18  | 28  | The Arms of Achilles  | Thetis goes to get new armour from Hephaestus  |   |
 | 19  | 29  | Reconciliation  | Agamemnon and Achilles make peace  |   |
 | 19  | 30  | Arming of Achilles  | Achilles arms for battle  |   |
-|   | 31  |   |   |   |
-|   | 32  |   |   |   |
-|   | 33  |   |   |   |
-|   | 34  |   |   |   |
-|   | 35  |   |   |   |
-|   | 36  |   |   |   |
-|   | 37  |   |   |   |
-|   | 38  |   |   |   |
-
+| 20  | 31  | Battle Resumes  | The battle begins again, and the gods join in  |   |
+| 21  | 32  | In the Scamander  | Achilles kills Lyaon and Asteropaeus, and fights the Scamander  |   |
+| 21  | 33  | Up Against the Walls  | Achilles pushes the Trojans back to the walls  |   |
+| 22  | 34  | Death of Hector  | Achilles chases, kills, and drags off Hector.   |   |
+| 23  | 35  | Mourning Patroclus  | Achilles mourns Patroclus, after he appears in a dream  |   |
+| 23  | 36  | Funeral Games  | The Greeks hold funeral games for Patroclus  |   |
+| 24  | 37  | Ransoming Hector  | With the help of Hermes, Priam ransoms Hector  |   |
