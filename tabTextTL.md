@@ -18,7 +18,7 @@
 | 16  | 11 |  Hector kills him and takes the armor |   |   |
 | 17  | 12 |  Battle over the body | The Greeks and Trojans battle for Patroclus' body, Antiochus announces to Achilles  |   |
 | 18  | 13 | Arms of Achilles  | Thetis goes to Hephaestus to get arms  |   |
-| 18  | 14 | Saving Patroclus' body  | Greeks carry Patroclus to the ship  |   |
+| 19  | 14 | Saving Patroclus' body  | Greeks carry Patroclus to the ship  |   |
 | 19  | 15 | Reconciliation  | Thetis brings the arms, and Agamemnon gives Briseis to Achilles  |   |
 | 21  | 16 | In the Scamander  | Achilles kills Asteropaeus in the Scamander, and then escapes the river  |   |
 | 22  | 17 | Death of Hector  | Achilles kills Hector, takes his arms, and drags his body to the ships  |   |
