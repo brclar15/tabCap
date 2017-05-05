@@ -4,9 +4,11 @@
 
 - [Tabula Capitolina Overview](Intro.md)
 
-- [Timeline of the Iliadic Images on the stone](tabImagesTL.md)
+- [A Collection of Photography of the Tabula Capitolina](images.md)
 
-- [Timeline of the Iliadic Summary on the stone](tabTextTL.md)
+- [Timelines of the Retellings and the *Iliad](iliadTL.md)
+
+- [The Tabula in Context](tabContext.md)
 
 ---------
 
