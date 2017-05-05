@@ -22,8 +22,8 @@
 | 15  | 15 | Naumaxia  | Ajax and Teucer  |   |
 | 16  | 16 | Arming of Patroclus  | Patroclus in armor Phoenix Diomedes Achilles  |   |
 | 16  | 17 | Patroclus fights  | chariot battle  |   |
-| 17  | 18 | Patroclus' body  | a chariot seeks to take the body while it's being defended  |   |
-| 17  | 19 | Menelaus carries the body  | Menelaus drags Patroclus' body from danger |   |
+| 17  | 18 | Defending Patroclus' body  | a chariot seeks to take the body while it's being defended  |   |
+| 17  | 19 | Removing Patroclus' body  | A Greek drags Patroclus' body from danger |   |
 | 17  | 20 | Greeks load up the body  | Patroclus is put on a chariot to be brought to the ships  |   |
 | 18  | 21 | Mourning of Patroclus  | Achilles and mourners surround the body |   |
 | 18  | 22 | Achilles' arms  | Thetis watches the Cyclopes and Hephaestus forge the arms  |   |
