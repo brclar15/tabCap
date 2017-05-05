@@ -3,7 +3,7 @@
 
 
 
-| Book Number  | Sequence  |  Title | Description  |  Image |
+| Book Number  | Sequence  |  Title | Description  |   |
 |---|---|---|---|---|
 | 1  | 1  | Conflict  | Chryses at temple of Apollo  |   |
 | 2  | 2  | Loimos  | Plague  |   |
