@@ -6,6 +6,7 @@
 - figure out how to link edition html file directly
 - Oranize website with home button and side bar for better navigation 
 - add images into the various text pages
+- Plokamos social links between figures on stone, *maybe*? 
 
 ### Content 
 - do more sophisticated transforms on the editon
