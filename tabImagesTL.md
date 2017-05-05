@@ -6,10 +6,10 @@
 | Book Number  | Sequence  |  Title | Description  |   |
 |---|---|---|---|---|
 | 1  | 1  | Conflict  | Chryses at temple of Apollo  |   |
-| 2  | 2  | Loimos  | Plague  |   |
-| 3  | 3  | Gathering of the Greeks  | Kalchas’ prophecy and Achilles speech with Athena present  |   |
-| 4  | 4 | Making Amends  | Odysseus Sacrifices to Apollo  |   |
-| 5  | 5 | Supplication  | Thetis and Zeus  |   |
+| 1  | 2  | Loimos  | Plague  |   |
+| 1  | 3  | Gathering of the Greeks  | Kalchas’ prophecy and Achilles speech with Athena present  |   |
+| 1  | 4 | Making Amends  | Odysseus Sacrifices to Apollo  |   |
+| 1  | 5 | Supplication  | Thetis and Zeus  |   |
 | 13  | 6 | Meriones and Akamas  |  Meriones kills Akamas |   |
 | 13  | 7 | Idomenus and Othryoneus  |  Idomenus kills Othryoneus |   |
 | 13  | 8 | Asius  |  Asius withdraws |   |
