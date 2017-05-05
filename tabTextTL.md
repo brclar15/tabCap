@@ -12,8 +12,8 @@
 | 11 | 5 | Wounded chiefs  | Agamemnon, Diomedes, Odysseus, Machaon, Euryplus are wounded in battle  |   |
 | 11  | 6 | Battle Inquiries  |  Patroclus is sent by Achilles to ask Nestor about the battle |   |
 | 12  | 7 | Breaching the Wall  |  Hector breaks the gates  |   |
-| 13  | 8 | Naumaxia  |  Fierce battle around the ships  |   |
-| 14 - 16  | 9 | Patroclus goes to fight  |  Achilles hears the news, sees Potesilaus’ ship burning, sends Patroclus with Myrmidons giving him his horses and arms |   |
+| 13-15  | 8 | Naumaxia  |  Fierce battle around the ships  |   |
+| 16  | 9 | Patroclus goes to fight  |  Achilles hears the news, sees Potesilaus’ ship burning, sends Patroclus with Myrmidons giving him his horses and arms |   |
 | 16  | 10 |  Patroclus fights the Trojans | Trojans flee, Patroclus kills many, Sarpedon, chases the rest to the wall  |   |
 | 16  | 11 |  Hector kills him and takes the armor |   |   |
 | 17  | 12 |  Battle over the body | The Greeks and Trojans battle for Patroclus' body, Antiochus announces to Achilles  |   |
