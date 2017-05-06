@@ -16,7 +16,7 @@
 | **13-15**  | 9 | Naumaxia  |  Fierce battle around the ships  |   |
 | **16**  | 10 | Patroclus goes to fight  |  Achilles hears the news, sees Potesilaus’ ship burning, sends Patroclus with Myrmidons giving him his horses and arms |   |
 | **16**  | 11 |  Patroclus fights the Trojans | Trojans flee, Patroclus kills many, Sarpedon, chases the rest to the wall  |   |
-| **16**  | 12 |  Hector kills him and takes the armor |   |   |
+| **16**  | 12 | Death of Patroclus  | Hector kills him and takes the armor  |   |
 | **17**  | 13 |  Battle over the body | The Greeks and Trojans battle for Patroclus' body  |   |
 | **17**  | 14 |  Announcing to Achilles | Antiochus goes to alert Achilles  |   |
 | **18**  | 15 | Arms of Achilles  | Thetis goes to Hephaestus to get arms  |   |
