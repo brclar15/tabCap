@@ -21,7 +21,9 @@ Another explanation for their exclusion, similar to book 1, is that they were no
 
 ## Book 8
 
-both talk about the battle, don't show the action in the heavens
+In book 8, the battle between the Greeks and Trojans rages hard. The textual retelling reflects the *Iliad* when it stresses that the Trojans camped in front of the ships. This fact precipitates the next several books of the poem because it breaks the series of lighter skirmishes that had characterized the first nine years of the Trojan War. The fact that this added element of the otherwise unremarkable fighting underscores a pattern that will be seen throughout the rest of the analysis: that the Tabula stresses actions that lead to other key moments in the narrative. 
+
+The stone does not, however, include the actions of the gods. In *Iliad* 8, Zeus rebukes Hera and Athena, and then proceeded to strengthen the Trojans. Excluding Thetis' supplication of Zeus in book 1, the tabula does not show the actions of the gods in heaven. They are occasionally seen on the battlefield, as will be seen later, but never in assembly or dialogue amongst themselves. 
 
 ## Book 9
 
