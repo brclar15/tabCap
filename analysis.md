@@ -50,9 +50,11 @@ The pectoral retelling, which resumes here, cannot skip over the action on the b
 
 ## Book 14
 
-textual retelling brief, just fighting. Notably neither tabCap show Hera and Zeus episode, don't show things in heaven. Images show initial fight, Ajax and Poseidon makes sense and are prominent, but no Hector and Apollo mentioned in Iliad. 
+**NEED TO COME BACK HERE**textual retelling brief, just fighting. Notably neither tabCap show Hera and Zeus episode, don't show things in heaven. Images show initial fight, Ajax and Poseidon makes sense and are prominent, but no Hector and Apollo mentioned in Iliad. 
 
 ## Book 15
+
+Still, the textual retelling for this book has been continued from books 13 and 14. It does not detail the attack on the Greek ships, but rather moves past the escalation of the battle until book 16 where Achilles learns of the situation. The visual retelling 
 
 textual retelling brief, just fighting. Images show prominent Trojans not emphasized in the Iliad. Aiantes prominent in images and Iliad. Only Iliad mentions gods 
 
