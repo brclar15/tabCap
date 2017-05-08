@@ -25,17 +25,15 @@
 | **18**  | 18 | Achilles' arms  | Thetis watches the Cyclopes and Hephaestus forge the arms  |   |
 | **19**  | 19 | The Arming of Achilles  | Thetis, a woman, and Phoenix are arming Achilles  |   |
 | **19**  | 20 | Achilles goes to fight  | Achilles setting off in his chariot  |   |
-| **20**  | 21 | Poseidon and Aeneas  |   |   |
-| **20**  | 22 | Achilles fights  | Achilles and an unarmed figure and one flees  |   |
-| **20**  | 23 | Achilles and Hector  |   |   |
-| **20**  | 24 |  Gods surveying? |   |   |
-| **21**  | 25 | Achilles and Lycoan  | Achilles kills Lycoan in the Scamander  |   |
-| **21**  | 26 | Achilles and Poseidon  |   |   |
-| **21**  | 27 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |
-| **22**  | 28 | Hector and Achilles at the gates  |   |   |
-| **22**  | 29 | Death of Hector | Hector falls to Achilles  |   |
-| **22**  | 30 | Achilles desecrates his body  |  Hector is tied to the chariot |   |
-| **23**  | 31 | Cremation of Patroclus  | Achilles and figures around the pyre   |   |
-| **23**  | 32 | Funeral games  | Chariot racing  |   |
-| **24**  | 33 | Ransoming Hector  |  Hector and the ransom of Hector loaded onto a cart |   |
-| **24**  | 34 | Priam and Achilles  |  Hermes and Priam in the tent and Achilles |   |
+| **20**  | 21 | Poseidon Intervenes  | Poseidon prevents Aeneas and Achilles from killing each other  |   |
+| **20**  | 22  | Achilles fights  | Achilles fights a number of unnnamed Trojans  |   |
+| **21**  | 23 | Achilles and Lycoan  | Achilles kills Lycoan in the Scamander  |   |
+| **21**  | 24 | Achilles and Poseidon  |   |   |
+| **21**  | 25 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |
+| **22**  | 26 | Hector and Achilles at the gates  |   |   |
+| **22**  | 27 | Death of Hector | Hector falls to Achilles  |   |
+| **22**  | 28 | Achilles desecrates his body  |  Hector is tied to the chariot |   |
+| **23**  | 29 | Cremation of Patroclus  | Achilles and figures around the pyre   |   |
+| **23**  | 30 | Funeral games  | Chariot racing  |   |
+| **24**  | 31 | Ransoming Hector  |  Hector and the ransom are loaded onto a cart while Priam and Hermes sit in Achilles' tent |   |
+
