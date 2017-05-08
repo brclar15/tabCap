@@ -6,7 +6,7 @@
 | Book Number  | Sequence  |  Title | Description  |   |
 |---|---|---|---|---|
 | **1**  | 1  | Conflict  | Chryses at temple of Apollo  |   |
-| **1**  | 2  | Loimos  | Plague  |   |
+| **1**  | 2  | Loimos  | Apollo sends a plague to the Greeks |   |
 | **1**  | 3  | Gathering of the Greeks  | Kalchas’ prophecy and Achilles speech with Athena present  |   |
 | **1**  | 4 | Making Amends  | Odysseus Sacrifices to Apollo  |   |
 | **1**  | 5 | Supplication  | Thetis and Zeus  |   |
@@ -15,7 +15,7 @@
 | **13**  | 8 | Asius  |  Asius withdraws |   |
 | **13**  | 9 |  Aeneas and Aphareus | Aeneas kills Aphareus  |   |
 | **14**  | 10 |  Archelouchus and Locrian Ajax |   |   |
-| **14**  | 11 | Ajax and Poseidon  |   |   |
+| **14**  | 11 | Ajax and Poseidon  | Poseidon comes to aid the Greeks  |   |
 | **14**  | 12 | Hector and Apollo  | Hector flees to Apollo  |   |
 | **15**  | 13 | Naumaxia  | Hector burns the ships before a group of Trojans, Ajax and Teucer guard them  |   |
 | **16**  | 14 | Arming of Patroclus  | Patroclus in armor Phoenix Diomedes Achilles  |   |
@@ -27,10 +27,10 @@
 | **19**  | 20 | Achilles goes to fight  | Achilles setting off in his chariot  |   |
 | **20**  | 21 | Poseidon Intervenes  | Poseidon prevents Aeneas and Achilles from killing each other  |   |
 | **20**  | 22  | Achilles fights  | Achilles fights a number of unnnamed Trojans  |   |
-| **21**  | 23 | Achilles and Lycoan  | Achilles kills Lycoan in the Scamander  |   |
-| **21**  | 24 | Achilles and Poseidon  |   |   |
+| **21**  | 23 | Achilles in the Scamander  | Achilles strikes a fallen figure in the Scamander  |   |
+| **21**  | 24 | Achilles and Poseidon  | Poseidon aids Achilles  |   |
 | **21**  | 25 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |
-| **22**  | 26 | Hector and Achilles at the gates  |   |   |
+| **22**  | 26 |  Achilles chases Hector |  Hector and Achilles at the gates |   |
 | **22**  | 27 | Death of Hector | Hector falls to Achilles  |   |
 | **22**  | 28 | Achilles desecrates his body  |  Hector is tied to the chariot |   |
 | **23**  | 29 | Cremation of Patroclus  | Achilles and figures around the pyre   |   |
