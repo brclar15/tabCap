@@ -5,7 +5,8 @@
 ### Presentation
 - figure out how to link edition .html file directly
 - Oranize website with home button and side bar for better navigation 
-- add images into the various text pages
+- insert text passage and image ref for each book in the commentary section, *if possible*
+- add images into the various text pages to glam it up
 - Plokamos social links between figures on stone, *maybe*? 
 
 ### Content 
