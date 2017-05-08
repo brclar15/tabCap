@@ -21,9 +21,10 @@
 | **17**  | 14 |  Announcing to Achilles | Antiochus goes to alert Achilles  |   |
 | **18**  | 15 | Arms of Achilles  | Thetis goes to Hephaestus to get arms  |   |
 | **18**  | 16 | Recovering Patroclus' body  | The Greeks bring his body back to the ships  |   |
-| **19**  | 17 | Reconciliation  | Thetis brings the arms, and Agamemnon gives Briseis to Achilles  |   |
-| **21**  | 18 | In the Scamander  | Achilles kills Asteropaeus in the Scamander, and then escapes the river  |   |
-| **22**  | 19 | Death of Hector  | Achilles kills Hector, takes his arms, and drags his body to the ships  |   |
-| **23**  | 20 | Patroclus' burial  | Achilles buries Patroclus and holds games for the chiefs  |   |
-| **24**  | 21 | Ransom of Hector  | Priam ransoms Hector  |   |
-| **24**  | 22 | Conclusion  | Priam returns to the city and the Trojans bury him and prepare his tomb |   |
+| **19**  | 17 | Thetis brings the arms  | Thetis arrives and gives her son his new armor  |   |
+| **19**  | 18 | Reconciliation  | Thetis brings the arms, and Agamemnon gives Briseis to Achilles  |   |
+| **21**  | 19 | In the Scamander  | Achilles kills Asteropaeus in the Scamander, and then escapes the river  |   |
+| **22**  | 20 | Death of Hector  | Achilles kills Hector, takes his arms, and drags his body to the ships  |   |
+| **23**  | 21 | Patroclus' burial  | Achilles buries Patroclus and holds games for the chiefs  |   |
+| **24**  | 22 | Ransom of Hector  | Priam ransoms Hector  |   |
+| **24**  | 23 | Conclusion  | Priam returns to the city and the Trojans bury him and prepare his tomb |   |
