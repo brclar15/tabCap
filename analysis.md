@@ -91,9 +91,15 @@ Textual retelling just mentions the arms, and the Greeks brining the body home, 
 
 ## Book 19
 
+Book 19 shows great multiformity across the Tabula's retellings. The central episode that is seen throughout the retellings is Thetis giving Achilles the new armor. In addition to that, there is no other one clear episode that is seen across book 19. The tabula 
+
 Reconciliation mentioned in texts, not in images, where Achilles just arms and goes off to fight. textual retelling has him jump to 21, in the Scamander
 
 ## Book 20
+
+While the textual retelling has been brief for certain books thus far, it completely skips over book 20. The prose summary goes from Achilles recovering Briseis to him fighting in the Scamander. It does not show the gods rejoining the fight, or Achilles' first kills upon returning to battle. This silence on the part of this retelling is unique and notable. The textual retelling for book 17, another battle book, is only two lines on the stele, but there is nothing for book 20. This retelling consistently omits the actions of the gods, whether they take place in the heavens or on the Trojan plain. With this in mind, the action of the poem does not progress or change in this book. Achilles has just donned his armor, and that is enough to trigger the audience's memory of Achilles return to the battlefield. There is no other logical action to follow his arming episode, so the textual retelling does not need to state his return explicitly. That idea is contained in the final episode of book 19. 
+
+The pictorial retelling  
 
 *No textual retelling*
 Poseidon and the gods join in both, essential, not well labels in images, just more fighting in Iliad
@@ -108,7 +114,7 @@ Textual retelling has Achilles killing Asteropaeus (due to his connection to the
 
 As is common with the central episodes of the *Iliad*, such as the death of Patroclus and the ransom of Hector, the retellings for book 22 match the poem precisely. The visual retelling begins with Achilles pursuing Hector among the Trojans walls. This scene is very static, in contrast to the famous chase scene around the citadel as seen in the *Iliad*. One could think that this visual retelling is trite and flat. However, it must be mentioned that by placing these two figures together before the Trojan citadel, those details must have been enough to evoke the episode of Hector's death to the intended audience. The Tabula does not need to show Achilles pursing Hector, but instead has the freedom to place them in a context that, given their relation to one another, calls to mind this scene without question. 
 
-The chase is not mentioned in the prose summary, although it does stress the single combat, as well as the recovery of Achilles' armor. The band for book 22 does not explicitly stress the recovery of the armor, but it does show Hector's body as nude once it is tied to Achilles' chariot. The element of Achilles dragging Hector's body back to the ships is essential to this episode. Not only does it it set up the action for book 24, but it evokes the overall message and conflict in the *Iliad*. One cannot retell the death of Hector without Achilles desecrating his body in this way. Where the pictorial retelling shows the vital nature of this element by showing Achilles dragging Hector's corpse, the textual retelling states that Achilles drags the body over the Trojan plain and to the ships. These details, while they do not add any unexpected information, are added to heighten the tension and importance of this episode within the wider context of the *Iliad*. 
+The chase is not mentioned in the prose summary, although it does stress the single combat, as well as the recovery of Achilles' armor. The band for book 22 does not explicitly stress the recovery of the armor, but it does show Hector's body as nude once it is tied to Achilles' chariot. The element of Achilles dragging Hector's body back to the ships is essential to this episode. Not only does it it set up the action for book 24, but it evokes the overall message and conflict in the *Iliad*. One cannot retell the death of Hector without Achilles desecrating his body in this way. Where the pictorial retelling shows the vital nature of this element by showing Achilles dragging Hector's corpse, the textual retelling states that Achilles drags the body over the Trojan plain and to the ships. These details, while they do not add any unexpected information, are added to heighten the tension and importance of this episode within the wider context of the *Iliad*. What is interesting and curious about the Tabula's band for book 22 is that the labels consistently repeat the names of Achilles and Hector. One would assume that labeling them once would be enough, especially in such a central book. However, the repeat two and a half times, in spite of the highly recognizable scene. 
 
 
 ## Book 23
