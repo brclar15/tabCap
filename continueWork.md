@@ -4,10 +4,9 @@
 
 ### Presentation
 - figure out how to link edition .html file directly
-- Oranize website with home button and side bar for better navigation 
+- oranize website with home button and side bar for better navigation 
 - insert text passage and image ref for each book in the commentary section, *if possible*
 - add images into the various text pages to glam it up
-- Plokamos social links between figures on stone, *maybe*? 
 
 ### Content 
 - add in comparison to [Apollodorus' Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0022%3Atext%3DEpitome%3Abook%3DE%3Achapter%3D4), **essential**
@@ -15,9 +14,11 @@
   - generate various editions (with all editorial additions, just what's on the stone, etc)
 - dig deeper into retellings of the "battle books"
   - analyze significance of figures shown on the stone for those books
+- dig deeper into the inclination towards Poseidon
 - add image citations for visual retellings
 - add rough line ranges for Iliad passages
   - calculate relative sizes within work and within book, *maybe*?
+- Plokamos social links between figures on stone, *maybe*? 
   
 ### Broader Expansion   
 - look at an analyze other Iliadic retellings
