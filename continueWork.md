@@ -10,7 +10,7 @@
 - Plokamos social links between figures on stone, *maybe*? 
 
 ### Content 
-- add in comparison to [Apollodorus' Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0022%3Atext%3DEpitome%3Abook%3DE%3Achapter%3D4), essential
+- add in comparison to [Apollodorus' Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0022%3Atext%3DEpitome%3Abook%3DE%3Achapter%3D4), **essential**
 - do more sophisticated transforms on the editon
   - generate various editions (with all editorial additions, just what's on the stone, etc)
 - dig deeper into retellings of the "battle books"
