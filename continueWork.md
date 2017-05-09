@@ -19,6 +19,7 @@
 - add rough line ranges for Iliad passages
   - calculate relative sizes within work and within book, *maybe*?
 - Plokamos social links between figures on stone, *maybe*? 
+- a more elaborate discussion//introduction on the Tabula Capitolina, referencing bibliography, **essential**
   
 ### Broader Expansion   
 - look at an analyze other Iliadic retellings
