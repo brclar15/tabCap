@@ -24,3 +24,4 @@ I owe a great deal of [thanks](thanks.md) to several people for help with variou
 
 This project is an ongoing work that will be presented as a DH project to complete my ["Digital Tools for Premodern Studies"](http://ase.tufts.edu/classics/graduate/digitalTools.htm) Masters degree at Tufts University. Here are some ideas of how I plan to [expand this project](continueWork.md). 
 
+Here is a [Preliminary bibliography](bibliography.md)
