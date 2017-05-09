@@ -2,4 +2,3 @@
 
 - [Digital Edition](file:///Users/brian/Desktop/updates_to_xslt/tabCapEdition.html)
 - [Editorial Practices](editPractices.md)
-- [Navigating the Tabula](navigatingTab.md)
