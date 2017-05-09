@@ -8,7 +8,7 @@
 
 - [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
 
-- [An Analysis of the Retellings of the Tabula Capitolina](analysis.md)
+- [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
 
 - [The Tabula in Context](tabContext.md)
 
