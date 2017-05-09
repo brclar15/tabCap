@@ -5,10 +5,8 @@
 - Burgess, Jonathan S. The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
 - Davies, Malcom. The Epic Cycle (Bristol Classical Press 1989)
 - Dickey, Eleanor. Ancient Greek Scholarship (Oxford University Press 2007)
-- Foley, John Miles, and Gejin, Chao. Challenges in Comparative Oral Epic (Oral Tradition 2012)
 - Gantz, Timothy. Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
 - GiulianiLuca, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
-- Haase, Fee-Alexandra. An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?)
 - Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348
 - Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
 - Manolova, Tzveta. Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010)
@@ -16,7 +14,6 @@
 - Nunlist, Rene. The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
 - Reece, Steve. Homeric Studies (Oral Tradition 2003)
 - Rossum-Steenbeck, Monique van. Greek Reader's Digests?: Studies on a selection of subliterary papyri (Mnemosyne 1998)
-- SammonsBenjamin. NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) 529-556.
 - Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73.
 - Petrain, David. Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
 - Tsagalis, Christos. The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
