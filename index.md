@@ -10,7 +10,6 @@
 
 - [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
 
-- [The Tabula in Context](tabContext.md)
 
 ---------
 
