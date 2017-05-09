@@ -1,4 +1,4 @@
-#Bibliography
+# Bibliography
 
 - Allen, T. W. Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
 - Blackie, J.S. Homer and the Iliad (Edinburgh 1866)
