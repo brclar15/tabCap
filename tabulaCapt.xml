@@ -23,7 +23,7 @@
 
 
                 <ab n="1"><gap/>ρηον μαθε ταξιν <persName n="urn:cite:hmt:pers.pers17"
-                    >Ομηρος</persName> οφρα δαεις πασης μετρον εχης σοφας </ab>
+                    >ομηρος</persName> οφρα δαεις πασης μετρον εχης σοφας </ab>
             </div>
 
             <div n="contents">
@@ -219,7 +219,7 @@
                 <ab n="73"><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> δ αυτον
                             <w><supplied>παταξ</supplied>ας</w>
                     <w part="I">α</w></ab>
-                <ab n="74">ποκτε<supplied>ινει καὶ των οπλων <w part="I">εγ</w></supplied></ab>
+                <ab n="74">ποκτε<supplied>ινει και των οπλων <w part="I">εγ</w></supplied></ab>
                 <ab n="75"><w part="F">κρατη<supplied>ς</supplied></w>
                     <w><supplied>γ</supplied>ει<supplied>νεται</supplied></w>
                     <supplied>μαχης</supplied>
@@ -244,7 +244,7 @@
                     <w>ποι<supplied>ει</supplied></w>
                     <supplied>οι</supplied>
                     <unclear>δ</unclear>
-                    <supplied>αχαιοι το</supplied></ab>
+                    <supplied><rs type="ethnic" n="urn:cite:hmt:place.place6">αχαιοι</rs> το</supplied></ab>
                 <ab n="83">σωμα του
                             <w>π<supplied>ατρό</supplied><unclear>κλ</unclear><supplied>ου</supplied></w>
                     <supplied>επι</supplied>
@@ -261,7 +261,7 @@
                     <supplied>την</supplied>
                     <w part="I"><supplied>βρι</supplied></w></ab>
                 <ab n="87"><w part="F"><unclear>σηί</unclear>δα</w>
-                    <w>αγα<unclear>μ</unclear><supplied>εμνων</supplied></w> αχιλλει</ab>
+                    <w>αγα<unclear>μ</unclear><supplied>εμνων</supplied></w> <persName n="urn:cite:hmt:pers.pers1">αχιλλει</persName></ab>
                 <ab n="88"><w><supplied>δι</supplied>δωσιν</w>
                     <w>αχ<supplied>ιλλευς</supplied></w>
                     <w><supplied>δ</supplied><unclear>ε</unclear></w>
@@ -271,7 +271,7 @@
                 <ab n="90"><w part="F">ξας</w>
                     <w>αστερο<unclear>π</unclear><supplied>αι</supplied><unclear>ον</unclear></w>
                     <w part="I"><unclear>απο</unclear>κτ</w></ab>
-                <ab n="91"><w><supplied>είν</supplied>ει</w> αχιλλευς δε <unclear>τον
+                <ab n="91"><w><supplied>ειν</supplied>ει</w> αχιλλευς δε <unclear>τον
                     εν</unclear></ab>
                 <ab n="92"><supplied>τωι</supplied>
                     <w><supplied>ποτ</supplied>αμῶι</w>
@@ -279,20 +279,20 @@
                 <ab n="93"><w part="F"><supplied>ν</supplied></w>
                     <supplied>κινδυνον</supplied> εκτορα <w part="I">μονομ</w></ab>
                 <ab n="94"><w part="F"><supplied>αχων</supplied></w>
-                    <w><supplied>ἀπο</supplied>κτινει</w> και τα <w>οπλ<unclear>α</unclear></w></ab>
+                    <w><supplied>απο</supplied>κτινει</w> και τα <w>οπλ<unclear>α</unclear></w></ab>
                 <ab n="95"><w><supplied>αναλαμ</supplied><unclear>β</unclear>ανει</w> και τον <w
                         part="I">νεκρ</w></ab>
                 <ab n="96"><w part="F"><supplied>ον</supplied></w>
-                    <w><supplied>εκ</supplied>δησαμενος</w> εκ τοῦ <w part="I">δ</w></ab>
+                    <w><supplied>εκ</supplied>δησαμενος</w> εκ του <w part="I">δ</w></ab>
                 <ab n="97"><w part="F"><supplied>ιφρο</supplied><unclear>υ</unclear></w> δια του
                     πεδιου ελκει</ab>
                 <ab n="98"><supplied>επι τας</supplied>
-                    <w><supplied>ν</supplied>αυς</w> και τὸν <w part="I"
+                    <w><supplied>ν</supplied>αυς</w> και τον <w part="I"
                     >π<unclear>ατ</unclear></w></ab>
                 <ab n="99"><w part="F">ροκλον</w>
                     <w>θ<unclear>α</unclear>ψας</w>
                     <w>τιθ<unclear>ησιν</unclear></w></ab>
-                <ab n="100"><supplied>επ</supplied> αυτ̣ωι <w><supplied>α</supplied>γωνα</w> τῶν <w
+                <ab n="100"><supplied>επ</supplied> αυτ̣ωι <w><supplied>α</supplied>γωνα</w> των <w
                         part="I">αρισ</w></ab>
                 <ab n="101"><w part="F">τεω<unclear>ν</unclear></w> ο δε
                         <w>π<unclear>ρι</unclear>αμος</w> επι <supplied>τας</supplied></ab>
