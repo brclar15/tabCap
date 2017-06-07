@@ -26,7 +26,7 @@
 | **19**  | 19 | The Arming of Achilles  | Thetis, a woman, and Phoenix are arming Achilles  |   |
 | **19**  | 20 | Achilles goes to fight  | Achilles setting off in his chariot  |   |
 | **20**  | 21 | Poseidon Intervenes  | Poseidon prevents Aeneas and Achilles from killing each other  |   |
-| **20**  | 22  | Achilles fights  | Achilles fights a number of unnnamed Trojans  |   |
+| **20**  | 22  | Achilles fights  | Achilles fights a number of unnamed Trojans  |   |
 | **21**  | 23 | Achilles in the Scamander  | Achilles strikes a fallen figure in the Scamander  |   |
 | **21**  | 24 | Achilles and Poseidon  | Poseidon aids Achilles  |   |
 | **21**  | 25 | Achilles at the gates of Troy  |  Achilles chases the Phrygians to the gates |   |

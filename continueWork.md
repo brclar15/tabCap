@@ -1,10 +1,10 @@
-# Moving Foward
+# Moving Forward
 
 ## Ideas on how to expand this project
 
 ### Presentation
 - figure out how to link edition .html file directly
-- oranize website with home button and side bar for better navigation 
+- organize website with home button and side bar for better navigation 
 - insert text passage and image ref for each book in the commentary section, *if possible*
 - add images into the various text pages to glam it up
 
@@ -17,11 +17,11 @@
 - dig deeper into the inclination towards Poseidon
 - add image citations for visual retellings
 - add rough line ranges for Iliad passages
-  - calculate relative sizes within work and within book, *maybe*?
+  - Calculate relative sizes within work and within book, *maybe*?
 - Plokamos social links between figures on stone, *maybe*? 
 - a more elaborate discussion//introduction on the Tabula Capitolina, referencing bibliography, **essential**
   
 ### Broader Expansion   
-- look at an analyze other Iliadic retellings
+- Look for and analyze other Iliadic retellings
   - metrical summaries in VA
-- add Epic Cycle portion of the Tabula Capitolina to this site, *maybe*?  
+- Add Epic Cycle portion of the Tabula Capitolina to this site, *maybe*?  

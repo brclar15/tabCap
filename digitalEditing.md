@@ -1,7 +1,7 @@
 # Diplomatic Digital Edition of the Tabula Capitolina
 
 - [Digital Edition](file:///Users/brian/Desktop/updates_to_xslt/tabCapEdition.html)
-  - an readable view of my edition of the texts on the Tabula Capitolina
+  - a readable view of my edition of the texts on the Tabula Capitolina
   - unclear letters are in red, supplied letters are in blue
 - [XML file](tabulaCapt.xml)
   - the raw xml of my digital edition

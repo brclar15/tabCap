@@ -29,7 +29,7 @@
 | **17**  | 25  | Fighting over the body  | The Greeks and Trojans contend for Patroclus' body  |   |
 | **17**  | 26  | Announcing the death  | Antilochus is sent to inform Achilles  |   |
 | **18**  | 27  | Achilles Learns of the Death  | He grieves and routs with Trojans with his voice  |   |
-| **18**  | 28  | The Arms of Achilles  | Thetis goes to get new armour from Hephaestus  |   |
+| **18**  | 28  | The Arms of Achilles  | Thetis goes to get new armor from Hephaestus  |   |
 | **19**  | 29  | Reconciliation  | Agamemnon and Achilles make peace  |   |
 | **19**  | 30  | Arming of Achilles  | Achilles arms for battle  |   |
 | **20**  | 31  | Battle Resumes  | The battle begins again, and the gods join in  |   |
