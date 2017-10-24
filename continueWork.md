@@ -1,3 +1,9 @@
+---
+layout: page
+title: Images
+---
+
+
 # Moving Forward
 
 ## Ideas on how to expand this project
