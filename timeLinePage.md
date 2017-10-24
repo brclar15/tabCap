@@ -1,3 +1,10 @@
+---
+layout: page
+title: Time Line
+---
+
+
+
 # Timelines of the Retellings and the *Iliad*
 
 - [Timeline of the visual retelling on the stone](tabImagesTL.md)
