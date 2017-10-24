@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sample page with Hyde them"
+title: "Tabula Capitolina"
 ---
 
 # Tabula Capitolina
