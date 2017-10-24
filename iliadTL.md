@@ -1,3 +1,9 @@
+---
+layout: page
+title: Images
+---
+
+
 # Timeline of the Events in the *Iliad*
 
 | Book Number  | Sequence  | Title  | Description  |   |
