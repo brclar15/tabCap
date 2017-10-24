@@ -1,3 +1,9 @@
+---
+layout: page
+title: Intro
+---
+
+
 # Intro to Tabula Capitolina
 
 ## By Brian Clark
