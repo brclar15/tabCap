@@ -16,11 +16,13 @@ description:      ''
 
 links:
   - title: Home
-    url: /
-  - title: Schedule
-    url: /schedule
-  - title: Resources
-    url: /resources
-  - title: Instructor
-    url: http://shot.holycross.edu/~nsmith/
+    url: /https://brclar15.github.io/tabCap/
+  - title: Intro
+    url: /intro
+  - title: Photography
+    url: /images
+  - title: Timelines
+    url: timeLinePage
+  - title: Timelines
+    url: timeLinePage
     external: true
