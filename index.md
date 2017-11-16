@@ -1,31 +1,38 @@
 ---
-layout: page
-title: "Tabula Capitolina"
+layout: home
+title: Neel Smith on github
 ---
 
-# Tabula Capitolina
 
-## By Brian Clark
+### Blog posts ###
 
-- [Tabula Capitolina Overview](intro.md)
+[Grouped by topic](alltags).
 
-- [A Collection of Photography of the Tabula Capitolina](images.md)
-
-- [Timelines of the Retellings and the *Iliad*](timeLinePage.md)
-
-- [An Analysis of the Retellings of the Tabula Capitolina](analysisPage.md)
+### Code libraries ###
 
 
----------
+A selection of my openly available work on github (from most general, to project-specific):
 
-## Aim of the project
 
-The goal of this project is to analyze the way an ancient audience would have retold the *Iliad*, or broken it down into smaller episodes. Primarily, the focus of this work is on the [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg), and the ways in which it retells the *Iliad*. Here is a [line drawing](http://www.mediterranees.net/art_antique/oeuvres/iliaca/images/capitolina1.gif) done by Otto Jahn that has been invaluable to my study of this object. There are two such retellings found on the stone: one visual in carved figures, and one textual in a prose summary. Since the stone has been partially damaged (see [Introduction](intro.md)), I was unable to analyze the way that the entire *Iliad* is retold, but rather only the sections that survive on the stone. I have compared the two different retellings on the Tabula Capitolina to the text of the [*Iliad*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0134).  
 
-In order to study this document, I have created a [diplomatic digital edition](digitalEditing.md) of the text found on the stone. 
+- citing scholarly resources:  [implementing models of the CITE architecture](cite)
+- working with digital representations of [ancient Greek](greek_language)
+- the [Homer Multitext project](hmt)
 
-I owe a great deal of [thanks](thanks.md) to several people for help with various aspects of this project.
 
-This project is an ongoing work that will be presented as a DH project to complete my ["Digital Tools for Premodern Studies"](http://ase.tufts.edu/classics/graduate/digitalTools.htm) Masters degree at Tufts University. Here are some ideas of how I plan to [expand this project](continueWork.md). 
+### Binary releases
 
-Here is a [preliminary bibliography](bibliography.md)
+Binary releases of the above code libraries are available through jcenter, linked from my personal repository at
+<https://bintray.com/neelsmith/maven>, where you can download or find information about build settings for the most recent version.
+
+### Collaborations on github ###
+
+
+- the Holy Cross [Manuscripts, Inscriptions and Documents Club](http://hcmid.github.io/)
+- the [Homer Multitext project](http://homermultitext.github.io) including the [HMT project editors' group](http://hmteditors.github.io/)
+
+### Links ###
+
+- My home page at Holy Cross: <http://shot.holycross.edu/~nsmith/>
+- A few [things I wish all my students would read](keyreads)
+- Atom feed for this site: <http://neelsmith.github.io/atom.xml>

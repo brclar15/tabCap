@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
-  {% include base.html %}
-  <body class="theme-base-0e">
+
+  <body>
 
     {% include sidebar.html %}
 
@@ -14,8 +14,9 @@
         <div class="container">
           <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-          <h3 class="masthead-title">
-            <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
+	  <h3 class="masthead-title">
+	  <a href="{{ "/" | prepend:site.baseurl }}" title="Home">{{ site.title }}</a>
+
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
