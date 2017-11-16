@@ -21,7 +21,7 @@
 
   {% for link in site.links %}
     <a class="sidebar-nav-item"
-  href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a>
+  href="{% if link.external %}{{ link.url }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a>
   {% endfor %}
 
   </nav>

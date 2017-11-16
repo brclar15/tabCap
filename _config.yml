@@ -11,15 +11,15 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Neel Smith on github
-tagline:          'Openly available work in digital classics'
-description:      'Some highlights of my openly available work on github'
-#baseurl: http://neelsmith.github.io
+title:            Tabula Capitolina
+tagline:          'In a digital context'
+description:      'A site to host a DH project for Tufts DH masters'
+#baseurl: https://brclar15.github.io/tabCap/
 baseurl: ""
 
 
 author:
-  name:           'Neel Smith'
+  name:           'Brian Clark'
 
 
 paginate:         5
@@ -27,19 +27,13 @@ paginate:         5
 
 
 links:
-  - title: Tagged blog posts
-    url: /alltags
-  - title: Greek
-    url: /greek
-  - title: Manuscripts
-    url: /mss
-  - title: Citation
-    url: /citation
-  - title: Writing digitally
-    url: /writing
-  - title: NS @ HC
-    url: http://shot.holycross.edu/~nsmith/
-    external: true
-  - title: Github source repository
-    url: https://github.com/neelsmith/neelsmith.github.io
-    external: true
+  - title: Home
+    url: /https://brclar15.github.io/tabCap/
+  - title: Intro
+    url: /intro
+  - title: Photography
+    url: /images
+  - title: Timelines
+    url: timeLinePage
+  - title: Timelines
+    url: timeLinePage

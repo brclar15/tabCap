@@ -1,5 +1,5 @@
-# `neelsmith.github.io` #
+# Iladic Retellings from the Tabula Capitolina
 
-Source for jekyll web site at <http://neelsmith.github.io>.
+a site to host a Tufts DH Masters project 
 
-
+## By Brian Clark
