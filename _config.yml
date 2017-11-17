@@ -37,3 +37,5 @@ links:
     url: timeLinePage
   - title: Timelines
     url: timeLinePage
+
+theme: jekyll-theme-minimal
