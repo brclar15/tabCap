@@ -5,7 +5,7 @@ title: "Tabula Capitolina"
 
 # Tabula Capitolina
 
-## By Brian Clark
+## By Brian R Clark
 
 - [Tabula Capitolina Overview](intro.md)
 
